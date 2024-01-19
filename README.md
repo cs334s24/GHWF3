@@ -3,7 +3,7 @@
 
 Practice space for using the Github Workflow.
 
-Participants:
+Participants: Max Houck & Luke Suppa
 Ben Coleman
 
 
