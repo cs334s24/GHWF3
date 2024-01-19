@@ -1,4 +1,4 @@
-
+#Gets hw averages
 def compute_hw_average(grades):
   if len(grades) == 0:
       return 0
